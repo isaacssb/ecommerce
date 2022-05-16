@@ -20,7 +20,6 @@ class Model {
 
         break;
     }
-
   }
 
   public function setData($data = array())
