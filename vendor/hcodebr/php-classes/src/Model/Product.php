@@ -54,7 +54,6 @@ class Product extends Model {
       "idproduct" => $this->getidproduct()
     ));
 
-    Category::updateFile();
   }
 
   public function checkPhoto()
