@@ -58,7 +58,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="single-promo promo2">
                     <i class="fa fa-truck"></i>
-                    <p>Frete grátis</p>
+                    <p>COMPRE AGORA</p>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
