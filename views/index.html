@@ -58,7 +58,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="single-promo promo2">
                     <i class="fa fa-truck"></i>
-                    <p>COMPRE AGORA</p>
+                    <p>NAO COMPRE</p>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
