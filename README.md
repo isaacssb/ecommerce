@@ -4,7 +4,7 @@ Projeto desenvolvido do zero no [Curso de PHP 7](https://www.udemy.com/curso-com
 
 Template usado no projeto [Almsaeed Studio](https://almsaeedstudio.com)
 
-# Configuração do ambiente (Vitual host)
+# Configuração do Ambiente (Vitual host)
 
 1. No seguinte caminho *C:\Windows\System32\drivers\etc\hosts*, adicione o código abaixo pare redirecionar a url digitada no navegaor para localhost:
 ```
@@ -12,7 +12,7 @@ Template usado no projeto [Almsaeed Studio](https://almsaeedstudio.com)
 ```
 
 2. Estou utilizando o Xampp. <br />
-No seguintes caminho *C:\Xampp\apache\conf\extra\httpd-vhosts.conf* adicione o código abaixo de configuração ():
+No seguintes caminho *C:\Xampp\apache\conf\extra\httpd-vhosts.conf* adicione o código abaixo de configuração:
 ```
 <VirtualHost *:80>
     ServerAdmin webmaster@hcode.com.br

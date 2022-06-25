@@ -38,7 +38,7 @@ class Category extends Model {
       "idcategory" => $idcategory
     ));
 
-    $this->setData($results[0]);
+     $this->setData($results[0]);
   }
 
   public function delete()
